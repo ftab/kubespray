@@ -20,6 +20,7 @@ inventory/*
 !inventory/local
 !inventory/sample
 !inventory/minnowkube
+!inventory/well-do-it-live
 inventory/*/artifacts/
 
 # Byte-compiled / optimized / DLL files
