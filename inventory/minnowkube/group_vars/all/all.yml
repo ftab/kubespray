@@ -90,3 +90,8 @@ loadbalancer_apiserver_healthcheck_port: 8081
 ## Set Pypi repo and cert accordingly
 # pyrepo_index: https://pypi.example.com/simple
 # pyrepo_cert: /etc/ssl/certs/ca-certificates.crt
+
+
+# https://kubespray.io/#/docs/downloads
+download_run_once: true
+download_keep_remote_cache: true
